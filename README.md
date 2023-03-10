@@ -82,6 +82,13 @@ Now go to the slack workspace and check one new workspace is created
 
 ![image](https://user-images.githubusercontent.com/103110767/224247323-2b15090d-1a79-4c80-9e0f-b7013c708131.png)
 
+# STEP12:
+
+Now go the channel which you have created and click on the link 
+
+![image](https://user-images.githubusercontent.com/103110767/224247883-e6e41103-9ea2-412a-84c1-bfdfc426ae96.png)
+
+
 
 
 
