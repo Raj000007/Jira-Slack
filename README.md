@@ -86,7 +86,23 @@ Now go to the slack workspace and check one new workspace is created
 
 Now go the channel which you have created and click on the link 
 
-![image](https://user-images.githubusercontent.com/103110767/224247883-e6e41103-9ea2-412a-84c1-bfdfc426ae96.png)
+![image](https://user-images.githubusercontent.com/103110767/224249044-bef333f7-0fdb-4b7c-b669-1e2e19ef5b34.png)
+
+# STEP13:
+
+Click on the accept 
+
+![image](https://user-images.githubusercontent.com/103110767/224249245-a5f6109e-3a17-4016-8107-bc92d7257690.png)
+
+
+Now go to jira projcet and create the issue and automatically the notification will trigger in slack
+
+![image](https://user-images.githubusercontent.com/103110767/224250669-ff6b4124-d0bb-4904-a6a3-c90555644d30.png)
+
+
+![image](https://user-images.githubusercontent.com/103110767/224250756-e0fe7600-bfa3-4686-a7bd-f2bc86bdde2d.png)
+
+
 
 
 
