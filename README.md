@@ -67,6 +67,21 @@ Now get back to jira page and click on reload this page
 ![image](https://user-images.githubusercontent.com/103110767/224246014-dc7790f6-5a1e-4094-b78e-8ce84276dfa7.png)
 
 
+# STEP10:
+
+Click on start new channel and follow the steps
+
+![image](https://user-images.githubusercontent.com/103110767/224246809-1ecaca26-91e4-4a0e-beec-7d16786d76f8.png)
+
+
+![image](https://user-images.githubusercontent.com/103110767/224246707-47a773a6-b0bd-47e2-b68d-4c275fcd0a6c.png)
+
+# STEP11:
+
+Now go to the slack workspace and check one new workspace is created 
+
+![image](https://user-images.githubusercontent.com/103110767/224247323-2b15090d-1a79-4c80-9e0f-b7013c708131.png)
+
 
 
 
